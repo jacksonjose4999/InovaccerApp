@@ -1,4 +1,10 @@
 # InovaccerApp
 Final app with all functionality. (Sending Mails and Sms)
 
-![https://github.com/jacksonjose4999/InovaccerApp/blob/master/WhatsApp%20Image%202019-11-26%20at%207.40.57%20PM-8.jpeg]()
+
+![Email Notification](./imagesf/image1.jpeg)
+![Email Notification](./imagesf/image2.jpeg)
+![Email Notification](./imagesf/image3.jpeg)
+
+![Email Notification](./imagesf/email1.jpeg)
+![Email Notification](./imagesf/email2.jpeg)
