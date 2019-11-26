@@ -2,9 +2,8 @@
 Final app with all functionality. (Sending Mails and Sms)
 
 
-![](./imagesf/image1.jpeg)
-![](./imagesf/image2.jpeg)
-![](./imagesf/image3.jpeg)
-
-![](./imagesf/email1.jpeg)
-![](./imagesf/email2.jpeg)
+<img src="./imagesf/image1.jpeg" alt="drawing" width="200"/>
+<img src="./imagesf/image2.jpeg" alt="drawing" width="200"/>
+<img src="./imagesf/image3.jpeg" alt="drawing" width="200"/>
+<img src="./imagesf/email1.jpeg alt="drawing" width="200"/>
+<img src="././imagesf/email2.jpeg alt="drawing" width="200"/>
