@@ -49,7 +49,7 @@ class CheckInCheckOut : AppCompatActivity() {
                         applicationContext, 0, intent, 0
                     )
 
-                    sms.sendTextMessage("Hi Test",null, textMsg, pi, null )
+                    sms.sendTextMessage("$textMsg",null, textMsg, pi, null )
                     Log.wtf("SMSSENT","message sent")
                 }
             }
