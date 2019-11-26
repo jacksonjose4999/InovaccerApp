@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531036023371",
+    "firebase_url": "https://innovaccer-38d1e.firebaseio.com",
+    "project_id": "innovaccer-38d1e",
+    "storage_bucket": "innovaccer-38d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531036023371:android:4c3115b766d57319723bce",
+        "android_client_info": {
+          "package_name": "com.example.innovaccerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531036023371-kfdpgooh4dmgc69rtj1937k6gdhd9j3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP3L1njJAZvBmLJmk0rKhs7iiKhZNYa1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531036023371-kfdpgooh4dmgc69rtj1937k6gdhd9j3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
