@@ -11,6 +11,8 @@ import kotlinx.android.synthetic.main.activity_check_out.*
 import java.util.*
 import android.text.format.DateFormat
 
+
+
 class CheckOutActivity : AppCompatActivity() {
 
 
@@ -18,6 +20,7 @@ class CheckOutActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_check_out)
         var deleteId = ""
+
 
         checkout_submit.setOnClickListener {
             if (name_checkout.text.isNullOrBlank() || phone_checkout.text.isNullOrBlank() ){
@@ -77,15 +80,12 @@ class CheckOutActivity : AppCompatActivity() {
                                             }).start()
                                         }
                                         }
-
-
-
                                     }
                                     catch (e : Exception){
                                         Log.wtf("Email",e.toString())
                                     }
-                                    finally {                db.collection("Visitors").document(deleteId).delete()
-
+                                    finally {
+                                        db.collection("Visitors").document(deleteId).delete()
                                     }
                                 }).start()
                             }
