@@ -15,6 +15,7 @@ After clicking submit, his details are stored and he can enter
 <img src="./imagesf/image5.jpeg" alt="drawing" width="200"/>
 
 An email is sent to the Host, about details of the visitor.
+
 <img src="./imagesf/email2.jpeg" alt="drawing" width="200"/>
 
 
@@ -25,4 +26,5 @@ both phone number and name is used to verify.
 
 
 An email is sent to the visitor, about the details of his visit.
+
 <img src="./imagesf/email1.jpeg" alt="drawing" width="200"/>
