@@ -14,9 +14,14 @@ After clicking submit, his details are stored and he can enter
 
 <img src="./imagesf/image5.jpeg" alt="drawing" width="200"/>
 
-An email is sent to the Host, about details of the visitor.
+An email and a sms is sent to the Host, about details of the visitor.
 
 <img src="./imagesf/email2.jpeg" alt="drawing" width="200"/>
+
+<img src="./imagesf/notification.jpeg" alt="drawing" width="200"/>
+
+<img src="./imagesf/textmessage.jpeg" alt="drawing" width="200"/>
+
 
 
 When the user wants to check out, he is presented with this screen, he needs to enter his details,
