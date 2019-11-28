@@ -10,13 +10,19 @@ If the user selects check in, then he\she is presented with this screen, first a
 <img src="./imagesf/image1.jpeg" alt="drawing" width="200"/>
 
 Upon clicking submit, the user is taken to this screen, where he will have to enter his details.
+After clicking submit, his details are stored and he can enter
 
 <img src="./imagesf/image5.jpeg" alt="drawing" width="200"/>
 
+An email is sent to the Host, about details of the visitor.
+<img src="./imagesf/email2.jpeg" alt="drawing" width="200"/>
 
+
+When the user wants to check out, he is presented with this screen, he needs to enter his details,
+both phone number and name is used to verify.
 
 <img src="./imagesf/image2.jpeg" alt="drawing" width="200"/>
-<img src="./imagesf/image3.jpeg" alt="drawing" width="200"/>
 
+
+An email is sent to the visitor, about the details of his visit.
 <img src="./imagesf/email1.jpeg" alt="drawing" width="200"/>
-<img src="./imagesf/email2.jpeg" alt="drawing" width="200"/>
