@@ -12,7 +12,7 @@ Then during check-out, the details of the visit is sent to the visitor, using hi
 3. Twilio api is used to send SMS programmatically,
 
 # Final UI/UX
-Final app with all functionality. (Sending Mails and Sms. Made with google material design schema in mind.
+Final app with all functionality (Sending Mails and Sms). Made with google material design schema in mind.
 
 On opening the app, the user would be presented with a screen with options to check out or check in.
 
