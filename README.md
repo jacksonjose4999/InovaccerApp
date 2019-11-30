@@ -1,4 +1,17 @@
-# InovaccerApp
+# Innovaccer SummerGeeks Internship Project
+
+An android app, which serves as an entry management system, which let's visitors check-in, records their
+details, and then sends a notification, both using Email, and SMS, to the Host, whose details would be 
+provided by the user. 
+Then during check-out, the details of the visit is sent to the visitor, using his details asked earlier.
+
+# Technologies used
+
+1. The android app is developed in Kotlin.
+2. FirebaseFirestore Database is used to store details of visitors and hosts.
+3. Twilio api is used to send SMS programmatically,
+
+# Final UI/UX
 Final app with all functionality. (Sending Mails and Sms. Made with google material design schema in mind.
 
 On opening the app, the user would be presented with a screen with options to check out or check in.
