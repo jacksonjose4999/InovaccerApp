@@ -11,6 +11,10 @@ Then during check-out, the details of the visit is sent to the visitor, using hi
 2. FirebaseFirestore Database is used to store details of visitors and hosts.
 3. Twilio api is used to send SMS programmatically,
 
+# How to run it
+
+Just go to Android Apk folder in the repo, and download app-debug.apk, that's it.
+
 # Final UI/UX
 Final app with all functionality (Sending Mails and Sms). Made with google material design schema in mind.
 
